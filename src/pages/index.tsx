@@ -13,7 +13,6 @@ const Home: NextPage = () => {
       </Head>
 
       <main>
-        <h1>Random Selector</h1>
         <RandomSelector />
       </main>
     </div>
