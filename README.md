@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/2865577/226075898-9982fbad-188b-41e7-ae30-e713ea10c22d.png)
+
 # Random Person Selector
 
 This project is a simple React application that allows users to add people to a list and select a specific number of them randomly.
